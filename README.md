@@ -1,2 +1,12 @@
-# Tercer-repReadme
-Este es mi tercer repositorio.
+Este es mi tercer repositorio en github, trabajado desde mi computadora personal.
+
+
+
+
+
+
+
+
+
+
+
